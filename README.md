@@ -1,5 +1,5 @@
 # anti-racism-reading-list
-Working on a reading list related to how technology perpetuates racism for curriculum
+Working on a reading list for curriculum related to how technology perpetuates racism
 
 * [Of course technology perpetuates racism. It was designed that way.](https://www.technologyreview.com/2020/06/03/1002589/technology-perpetuates-racism-by-design-simulmatics-charlton-mcilwain/) by Charlton McIlwain
 * [African American Inequality in the United States](https://www.hbs.edu/faculty/Pages/item.aspx?num=56905) by Janice H. Hammond, A. Kamau Massey and Mayra G. Garza
