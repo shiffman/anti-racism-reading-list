@@ -8,5 +8,6 @@ Working on a reading list for curriculum related to how technology perpetuates r
 * [Dark Matters: On the Surveillance of Blackness](https://www.dukeupress.edu/dark-matters) by Simone Browne
 * [Black Software: The Internet and Racial Justice, from the AfroNet to Black Lives Matter](https://global.oup.com/academic/product/black-software-9780190863845?cc=us&lang=en&) by Charlton D. McIlwain
 * [Carceral Capitalism ](https://mitpress.mit.edu/books/carceral-capitalism) by Jackie Wang
+* [A brief history of how racism manifests itself in design and how we can learn from it](https://uxplanet.org/a-brief-history-of-how-racism-manifests-itself-in-design-and-how-we-can-learn-from-it-141b1b5ddd4b) by Amrutha Pal
 
 To be continued...
