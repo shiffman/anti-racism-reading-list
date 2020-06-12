@@ -10,4 +10,10 @@ Working on a reading list for curriculum related to how technology perpetuates r
 * [Carceral Capitalism ](https://mitpress.mit.edu/books/carceral-capitalism) by Jackie Wang
 * [A brief history of how racism manifests itself in design and how we can learn from it](https://uxplanet.org/a-brief-history-of-how-racism-manifests-itself-in-design-and-how-we-can-learn-from-it-141b1b5ddd4b) by Amrutha Pal
 
+## Lists of books on wider issues of racial justice and tech 
+
+The main list focuses on readings related to the internet, computation, and algorithms. Here are some other resources for related readings outside of that scope. 
+
+* [15+ Books by Black Scholars the Tech Industry Needs to Read Now](https://www.c2i2.ucla.edu/racial-justice-and-tech/) by Safiya Umoja Noble and Dr. Sarah T. Roberts
+
 To be continued...
